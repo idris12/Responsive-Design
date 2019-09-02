@@ -2,7 +2,7 @@
 I made a responsive one page website using HTML, CSS and Javascript. This site includes a responsive design for mobile tablet and desktop 
 I also used some ui gradient to make the site a bit clean.
 
-#### Live preview of website https://lucid-williams-b45c12.netlify.com
+#### Live preview of website https://vibrant-volhard-a568b3.netlify.com
 
 ## Technology used
 * HTML
